@@ -1,0 +1,34 @@
+{
+	"creators": [
+		{
+			"name": "Rian Moreira",
+			"image": "https://picsum.photos/seed/sl1/300/400",
+			"position": "Product Owner",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti ad sequi quos itaque odit, quisquam"
+		},
+		{
+			"name": "Pedro Lucas",
+			"image": "https://picsum.photos/seed/sl1/300/400",
+			"position": "Desenvolvedor",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti ad sequi quos itaque odit, quisquam"
+		},
+		{
+			"name": "Kodie Sales",
+			"image": "https://picsum.photos/seed/sl1/300/400",
+			"position": "Desenvolvedor (Out Sourcing)",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti ad sequi quos itaque odit, quisquam"
+		},
+		{
+			"name": "Taís Gomes",
+			"image": "https://picsum.photos/seed/sl1/300/400",
+			"position": "Design (Out Sourcing)",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti ad sequi quos itaque odit, quisquam"
+		},
+		{
+			"name": "Shyanne Soares",
+			"image": "https://picsum.photos/seed/sl1/300/400",
+			"position": "UX Designer (Out Sourcing)",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti ad sequi quos itaque odit, quisquam"
+		}
+	]
+}
